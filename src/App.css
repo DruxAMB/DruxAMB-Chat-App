@@ -21,8 +21,8 @@ input {
 .App {
   width: 100%;
   min-height: 100vh;
-  background-color: #1c2c4c;
-  color: #4c768d;
+  background-color: #1c4c30;
+  color: #4c8d67;
   padding-top: 60px;
 }
 
@@ -32,8 +32,8 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #4c768d;
-  color: #242443;
+  background-color: #4c8d67;
+  color: #24432e;
   height: 60px;
   position: fixed;
   left: 0;
@@ -53,8 +53,8 @@ input {
   padding: 5px 10px;
   border-radius: 5px;
   color: #88dded;
-  border: 1px solid #1c2c4c;
-  background-color: #1c2c4c;
+  border: 1px solid #1c4c30;
+  background-color: #1c4c34;
   font-weight: 600;
 }
 
@@ -78,10 +78,10 @@ input {
   border-radius: 20px 20px 20px 0;
   padding: 15px;
   background-color: #7cc5d9;
-  color: #1c2c4c;
+  color: #1c4c36;
   width: max-content;
   max-width: calc(100% - 50px);
-  box-shadow: -2px 2px 1px 1px #4c768d;
+  box-shadow: -2px 2px 1px 1px #4c8d6d;
   display: flex;
   align-items: flex-start;
   margin-bottom: 20px;
@@ -102,7 +102,7 @@ input {
   font-weight: bold;
   margin-bottom: 5px;
   font-size: 0.9rem;
-  color: #1c2c4c;
+  color: #1c4c36;
 }
 .user-message {
   word-break: break-all;
@@ -128,7 +128,7 @@ input {
   border: none;
   flex-grow: 1;
   background-color: white;
-  color: #1c2c4c;
+  color: #1c4c32;
   font-size: 1rem;
 }
 .send-message > input:placeholder {
@@ -143,7 +143,7 @@ input {
   height: 40px;
   padding: 5px 10px;
   border-radius: 0 5px 5px 0;
-  color: #242443;
+  color: #244336;
   border: 1px solid #7cc5d9;
   background-color: #7cc5d9;
   font-weight: 600;
